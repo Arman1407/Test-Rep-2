@@ -2,5 +2,5 @@
 Hello Git
 line conflict
 Rep-213
-Hello Local
-Line conflict
+Rep-321
+rep-123
